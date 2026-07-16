@@ -1,0 +1,6 @@
+{
+  "name": "Pointly 77",
+  "description": "A gamified learning ecosystem that makes students excited to study through missions, badges, streaks, and collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
